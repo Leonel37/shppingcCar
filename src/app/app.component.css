@@ -1,0 +1,20 @@
+.container{
+    display: block;
+    background-color: rgb(240, 196, 76);
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    min-height: calc(100vh - 150vh );
+    margin-top: 10px;
+    text-align: center;
+    line-height: 15px;
+   
+
+
+    -webkit-box-shadow: 10px 16px 33px 0px rgba(32,7,173,0.66);
+-moz-box-shadow: 10px 16px 33px 0px rgba(32,7,173,0.66);
+box-shadow: 10px 16px 33px 0px rgba(32,7,173,0.66);
+}
+
+
+
